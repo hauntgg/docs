@@ -41,7 +41,8 @@
               "guides/security",
               "guides/domain",
               "guides/verification",
-              "guides/affiliate"
+              "guides/affiliate",
+              "guides/imagehost"
             ]
           },
           {
