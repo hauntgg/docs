@@ -46,8 +46,7 @@
               "guides/verification",
               "guides/affiliate",
               "guides/imagehost",
-              "guides/multiaccounting",
-              "guides/account-deletion"
+              "guides/multiaccounting"
             ]
           },
           {
@@ -114,7 +113,7 @@
   "footer": {
     "socials": {
       "discord": "https://discord.gg/hauntbio",
-      "github": "https://github.com/curet-dev/docs"
+      "github": "https://github.com/hauntgg/docs"
     }
   }
 }
